@@ -1,0 +1,14 @@
+body {
+ 
+    background-image: url('../img/burgerPhoto.jpg');
+    /* background-size: 1500px 1000px; */
+    background-size: 100%;
+    
+}
+
+.font-type {
+
+    text-align: center;
+    color: rgb(228, 222, 215);
+    text-shadow: 0 0 3px #726b6b;
+}
